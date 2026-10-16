@@ -1,0 +1,6 @@
+{
+  "name": "Nova - Multimodal Mobile AI Assistant",
+  "description": "Next-generation mobile AI assistant communicating seamlessly across Voice, Vision, and Text modalities powered by Gemini.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
